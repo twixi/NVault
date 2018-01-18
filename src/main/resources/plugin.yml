@@ -1,0 +1,5 @@
+name: NVault
+main: com.pikycz.nvault.NVault
+version: "1.0"
+api: ["1.0.0"]
+author: PikyCZ
